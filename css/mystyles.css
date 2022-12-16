@@ -1,0 +1,109 @@
+body{ 
+    background-color: lightgray !important;
+    
+    font-family: 'Roboto', sans-serif !important;
+    /* font-family: 'Xanh Mono', monospace; */
+
+    font-family: 'Roboto'
+    font-size:2em;
+    margin: 5px
+}
+
+h1 {
+    color:green;
+    text-align: center;
+}
+
+.bg-primary{
+    background-color:dimgray;
+
+
+}
+
+.text-primary{
+    color:green;
+
+}
+
+
+
+.text {
+    color: green;
+}
+
+a {
+    color:green;
+}
+a:hover {
+    color: darkseagreen !important;
+  }
+
+.exdates{
+    color:green;
+
+}
+/* .interestbackground{
+    background-image: url("../assets/img/mtn2.jpg");
+    height: 100%; */
+
+  /* Center and scale the image nicely */
+  /* background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+
+
+.interestbackground {
+    margin:10px;
+    border: solid forestgreen 5px;
+    overflow: auto;
+}
+
+.social-icons .social-icon:hover {
+    background-color: green !important;
+}
+
+.video-section{
+    margin-left: 3rem;
+
+}
+
+#Video {
+    text-align: center;
+    display:block;
+    margin auto;
+}
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Xanh+Mono&display=swap');
+</style>
+
+.xc1 {
+    margin:10px;
+    border: solid forestgreen 5px;
+    overflow: auto;  
+}
+
+.tableauPlaceholder{
+
+    border: solid forestgreen 5px;
+    overflow: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    text-align: : center;
+    background-color: white;
+    width: 100%;
+    border-top: 5px green solid;
+    display:block;
+
+    /* position:fixed;
+    left: 0px;
+    bottom: 0px; */
+}
+
+.mtnpic4 {
+    object-position:center !important;
+}
